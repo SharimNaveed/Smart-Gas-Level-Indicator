@@ -18,3 +18,10 @@ Components:
 
 
 Connection of components is shown in cktdiagrm.jpg
+
+
+
+
+
+The android app is made by using MIT App Inventor 2.
+The source files and the app is in the Android folder
